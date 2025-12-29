@@ -1,0 +1,2 @@
+# Core
+set Icon Full
