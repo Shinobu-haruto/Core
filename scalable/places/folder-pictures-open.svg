@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <!-- base -->
+  <path d="M80 224 H432 L392 352 H120 Z" fill="#2dd4bf"></path>
+
+  <!-- interior -->
+  <path d="M120 224 H320 L352 256 H120 Z" fill="#0f172a"></path>
+
+  <!-- marco imagen -->
+  <rect x="204" y="260" width="104" height="64" rx="8" fill="none" stroke="#0f172a" stroke-width="10"></rect>
+</svg>

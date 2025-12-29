@@ -1,0 +1,9 @@
+<!--?xml version="1.0" encoding="UTF-8"?-->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+
+  <rect width="512" height="512" fill="none"></rect>
+
+  <!-- Hexágono base -->
+  <polygon points="256,72 400,160 400,352 256,440 112,352 112,160" fill="#2dd4bf"></polygon>
+
+</svg>

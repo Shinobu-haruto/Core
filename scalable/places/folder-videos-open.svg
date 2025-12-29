@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <!-- base abierta -->
+  <path d="M80 224 H432 L392 352 H120 Z" fill="#2dd4bf"></path>
+
+  <!-- interior -->
+  <path d="M120 224 H320 L352 256 H120 Z" fill="#0f172a"></path>
+
+  <!-- play -->
+  <polygon points="248,260 248,316 296,288" fill="#0f172a"></polygon>
+</svg>

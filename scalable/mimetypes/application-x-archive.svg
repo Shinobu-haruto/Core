@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <!-- hoja -->
+  <rect x="144" y="96" width="224" height="320" rx="24" fill="#e5e7eb"></rect>
+
+  <!-- bloque -->
+  <rect x="208" y="208" width="96" height="96" rx="16" fill="#64748b"></rect>
+
+  <!-- línea de compresión -->
+  <rect x="240" y="184" width="32" height="16" fill="#2dd4bf"></rect>
+</svg>

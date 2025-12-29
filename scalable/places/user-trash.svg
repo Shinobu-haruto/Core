@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <!-- cuerpo -->
+  <rect x="176" y="200" width="160" height="192" rx="20" fill="#2dd4bf"></rect>
+  <!-- tapa -->
+  <rect x="160" y="168" width="192" height="24" rx="12" fill="#2dd4bf"></rect>
+  <!-- líneas -->
+  <rect x="216" y="232" width="12" height="128" fill="#0f172a"></rect>
+  <rect x="252" y="232" width="12" height="128" fill="#0f172a"></rect>
+  <rect x="288" y="232" width="12" height="128" fill="#0f172a"></rect>
+</svg>

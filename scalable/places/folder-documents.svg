@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <!-- base -->
+  <path d="M96 160 H224 L256 192 H416
+           A24 24 0 0 1 440 216
+           V352 A24 24 0 0 1 416 376
+           H96 A24 24 0 0 1 72 352
+           V184 A24 24 0 0 1 96 160Z" fill="#2dd4bf"></path>
+  <!-- hoja -->
+  <rect x="216" y="224" width="80" height="104" rx="10" fill="#0f172a"></rect>
+</svg>
